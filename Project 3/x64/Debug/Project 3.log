@@ -1,2 +1,3 @@
 ﻿  Project 3.cpp
-  Project 3.vcxproj -> C:\Users\User\source\repos\Project 3\x64\Debug\Project 3.exe
+C:\Users\User\source\repos\Project 3\Project 3.cpp(9,2): error C2065: 'z1': undeclared identifier
+C:\Users\User\source\repos\Project 3\Project 3.cpp(12,21): error C2065: 'z1': undeclared identifier
