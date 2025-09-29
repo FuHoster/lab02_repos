@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBBF5-EB61-4AA7-9B40-4CDE5E365016}|Project 3.vcxproj|C:\\Users\\User\\source\\repos\\Project 3\\Project 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FADBBF5-EB61-4AA7-9B40-4CDE5E365016}|Project 3.vcxproj|solutionrelative:Project 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 3.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project 3\\Project 3.cpp",
+              "RelativeDocumentMoniker": "Project 3.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project 3\\Project 3.cpp",
+              "RelativeToolTip": "Project 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T20:14:14.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
